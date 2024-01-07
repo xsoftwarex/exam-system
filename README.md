@@ -1,0 +1,1 @@
+Bu projede, hesaplanması istenen istatistiksel veriler, öğrencilerin çoktan seçmeli bir sınavda verdikleri cevapları içeren _belirli bir formattaki excel dosyasının_ okunmasıyla hesaplanıp, hesaplanan değerler konsola yazılmaktadır.
